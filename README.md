@@ -99,7 +99,7 @@ Built by [Gurvir Singh](https://github.com/Gurvirhansra54) — exploring blockch
 ## 📬 Contact
 
 Feel free to connect or share feedback:
-- LinkedIn: [Gurvir hansra](https://www.linkedin.com/in/gurvir-singh-bca/)
+- LinkedIn: [Gurvir hansra](https://in.linkedin.com/in/gurvir-hansra-2464b0200)
 - GitHub: [@Gurvirhansra54](https://github.com/Gurvirhansra54)
 
 ---
