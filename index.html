@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CBDC Wallet</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>CBDC Wallet Interface</h1>
+
+    <div class="section">
+      <h2>Create Wallet</h2>
+      <input type="text" id="walletName" placeholder="Enter name" />
+      <button onclick="createWallet()">Create</button>
+      <p><strong>Wallet ID:</strong> <span id="walletId"></span></p>
+    </div>
+
+    <div class="section">
+      <h2>Check Balance</h2>
+      <input type="text" id="balanceWalletId" placeholder="Enter Wallet ID" />
+      <button onclick="getBalance()">Get Balance</button>
+      <p><strong>Balance:</strong> ₹<span id="balance"></span></p>
+    </div>
+
+    <div class="section">
+      <h2>Send e₹</h2>
+      <input type="text" id="senderId" placeholder="Sender Wallet ID" />
+      <input type="text" id="receiverId" placeholder="Receiver Wallet ID" />
+      <input type="number" id="amount" placeholder="Amount" />
+      <button onclick="sendMoney()">Send</button>
+      <p id="sendStatus"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
