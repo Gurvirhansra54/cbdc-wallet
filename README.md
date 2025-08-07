@@ -10,7 +10,7 @@ A full-stack simulation of a Central Bank Digital Currency (CBDC) Wallet built u
 
 ## 🌐 Live Demo
 
-- 🔗 **Frontend (UI):** [Open Netlify App](https://cbdc-wallet-simulator.netlify.app/)
+- 🔗 **Frontend (UI):** [Open Netlify App](https://playful-selkie-5b13e4.netlify.app/)
 - 🔗 **Backend (Swagger API):** [Open Replit API Docs](https://d5320af4-01e5-4798-a5ac-63b71b7cdc08-00-4qol32917fza.sisko.replit.dev/docs)
 
 ---
